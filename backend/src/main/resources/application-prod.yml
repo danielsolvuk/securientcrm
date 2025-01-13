@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: SecurientCRMapp
+  security:
+    user:
+      name: admin
+      password: 123
+  profiles:
+    active: dev
